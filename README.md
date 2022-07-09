@@ -1,2 +1,5 @@
 # React-Animation-Library
-A list of animation libaries for ReactJs
+A List of React Animation libaries
+
+1. React Vis -----< Used for Graph Visualization and Animation
+2. React Anim
