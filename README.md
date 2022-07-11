@@ -13,3 +13,10 @@ Animation
 
 UI/UX Design Patterns
 Design Vault
+
+Layout
+1. Golden Ratio/Spiral
+2. Golden Canon Grid
+3. Rule of Third
+4. 8pt Grid System
+5. 
